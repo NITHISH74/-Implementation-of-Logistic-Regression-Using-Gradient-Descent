@@ -29,7 +29,7 @@ Create the confusion matrix and find the accuracy score, recall sensitivity and 
 
 Plot the training set results.
 ## Program:
-```
+```python
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: NITHISHWAR S
